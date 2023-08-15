@@ -22,7 +22,7 @@ git clone https://github.com/absoluteb31ng/banned_watsap
 cd banned_watsap
 ```
 ```
-python3 killwattsapp.py
+python3 killwatsapp.py
 ```
 
 #DISFRUTA DE ESTA MAGNIFICA HERRAMIENTA 
