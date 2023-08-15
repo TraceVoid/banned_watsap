@@ -1,3 +1,3 @@
-from logic import logic
+from main import logic
 
 logic()
