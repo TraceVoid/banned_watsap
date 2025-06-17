@@ -16,7 +16,7 @@ pkg install pip
 pip install setuptools
 ```
 ```
-git clone https://github.com/absoluteb31ng/banned_watsap
+git clone https://github.com/TraceVoid/banned_watsap
 ```
 ```
 cd banned_watsap
